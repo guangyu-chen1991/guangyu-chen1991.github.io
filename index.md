@@ -1,5 +1,4 @@
-Hello and welcome to my learning blog. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
+Hello and welcome to my learning blog. This blog is used to record my understanding during the period of learning deep learning.
 ![Image of fast.ai logo](images/logo.png)
 
 ## This is a title
