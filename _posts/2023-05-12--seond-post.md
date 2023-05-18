@@ -9,4 +9,4 @@ Third step is to use our model to test the images that I have downloaded before.
 With this method, we can establish our model to test many things rather than the birds.
 
 
-![Image description](images/logo.png)
+![Image of fast.ai logo](images/logo.png)
